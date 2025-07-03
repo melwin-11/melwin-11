@@ -33,17 +33,8 @@ Passionate about learning and building impactful solutions that make a real diff
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melwin-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br> 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=melwin-11&theme=dark&hide_border=false)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melwin-11&theme=dark&hide_border=false&layout=compact)<br>
-
----
 
 ## Contact Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:melwin.11.robinson@gmail.com)  
 Connect with me via mail at: [melwin.11.robinson@gmail.com](mailto:melwin.11.robinson@gmail.com)  
 Reach out to me on LinkedIn at: [melwin-robinson](https://linkedin.com/in/melwin-robinson)
 

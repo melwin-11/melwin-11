@@ -44,7 +44,9 @@ Passionate about learning and building impactful solutions that make a real diff
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:melwin.11.robinson@gmail.com)  
-Connect with me here: [melwin.11.robinson@gmail.com](mailto:melwin.11.robinson@gmail.com)
+Connect with me via mail at: [melwin.11.robinson@gmail.com](mailto:melwin.11.robinson@gmail.com)  
+Reach out to me on LinkedIn at: [melwin-robinson](https://linkedin.com/in/melwin-robinson)
+
 
 ---
 

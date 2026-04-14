@@ -16,7 +16,7 @@ Aspiring software developer passionate about creating impactful solutions throug
 [![Database Skills](https://skillicons.dev/icons?i=mysql,mongodb,supabase,redis,&perline=6)](https://skillicons.dev)
 
 ### DevOps  
-[![Sepcialization Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,docker,kubernetes,selenium,&perline=6)](https://skillicons.dev)
+[![Sepcialization Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,&perline=6)](https://skillicons.dev)
 
 ### Artificial Intelligence & Machine Learning  
 [![Sepcialization Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,&perline=6)](https://skillicons.dev)

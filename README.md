@@ -1,19 +1,3 @@
-<!--
-Profile README for Melwin Robinson (github.com/melwin-11).
-
-Structure:
-  1. Header with name, tagline, and contact badges (LinkedIn, ORCID, portfolio)
-  2. Short introduction
-  3. Tech stack (skillicons.dev; LangChain is a shields.io badge because
-     skillicons.dev has no LangChain icon)
-  4. Closing contact line
-
-Icons use plain markdown image links, the same form as the original README, because the
-HTML picture element made GitHub show only the first icon of each skillicons strip.
-
-Icon IDs follow https://github.com/tandpfun/skill-icons#icons-list
--->
-
 <div align="center">
 
 # Melwin Robinson

@@ -1,3 +1,19 @@
+<!--
+Profile README for Melwin Robinson (github.com/melwin-11).
+
+Structure:
+  1. Header with name, tagline, and contact badges (LinkedIn, ORCID, portfolio)
+  2. Short introduction
+  3. Tech stack (skillicons.dev; LangChain is a shields.io badge because
+     skillicons.dev has no LangChain icon)
+  4. Closing contact line
+
+Icons use plain markdown image links, the same form as the original README, because the
+HTML picture element made GitHub show only the first icon of each skillicons strip.
+
+Icon IDs follow https://github.com/tandpfun/skill-icons#icons-list
+-->
+
 <div align="center">
 
 # Melwin Robinson
@@ -22,40 +38,23 @@ I build full-stack products and applied machine learning systems, and publish th
 
 ### Languages
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,py,js,ts,bash&perline=6&theme=dark">
-  <img alt="Languages" src="https://skillicons.dev/icons?i=c,java,py,js,ts,bash&perline=6&theme=light">
-</picture>
+[![Languages](https://skillicons.dev/icons?i=c,java,py,js,ts,bash&perline=6&theme=light)](https://skillicons.dev)
 
 ### Frontend and Backend
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,fastapi,flask&perline=7&theme=dark">
-  <img alt="Frontend and Backend" src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,fastapi,flask&perline=7&theme=light">
-</picture>
+[![Frontend and Backend](https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,fastapi,flask&perline=7&theme=light)](https://skillicons.dev)
 
 ### AI and Machine Learning
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4&theme=dark">
-  <img alt="AI and Machine Learning" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4&theme=light">
-</picture>
-
-<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+[![AI and Machine Learning](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4&theme=light)](https://skillicons.dev)
 
 ### Databases
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&perline=4&theme=dark">
-  <img alt="Databases" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&perline=4&theme=light">
-</picture>
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&perline=4&theme=light)](https://skillicons.dev)
 
 ### Cloud, DevOps and Tools
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,azure,vercel,prometheus,grafana,postman&perline=10&theme=dark">
-  <img alt="Cloud, DevOps and Tools" src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,azure,vercel,prometheus,grafana,postman&perline=10&theme=light">
-</picture>
+[![Cloud, DevOps and Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,azure,vercel,prometheus,grafana,postman&perline=10&theme=light)](https://skillicons.dev)
 
 ---
 

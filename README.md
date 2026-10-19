@@ -22,23 +22,25 @@ I build full-stack products and applied machine learning systems, and publish th
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=c,java,py,js,ts,bash&perline=6&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,java,py,js,ts,bash&perline=6&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
 
 ### Frontend and Backend
 
-[![Frontend and Backend](https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,fastapi,flask&perline=7&theme=light)](https://skillicons.dev)
+[![Frontend and Backend](https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,fastapi,flask&perline=7&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
 
 ### AI and Machine Learning
 
-[![AI and Machine Learning](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4&theme=light)](https://skillicons.dev)
+[![AI and Machine Learning](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
+
+
 
 ### Databases
 
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&perline=4&theme=light)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
 
 ### Cloud, DevOps and Tools
 
-[![Cloud, DevOps and Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,azure,vercel,prometheus,grafana,postman&perline=10&theme=light)](https://skillicons.dev)
+[![Cloud, DevOps and Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,azure,vercel,prometheus,grafana,postman&perline=10&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
 
 ---
 
